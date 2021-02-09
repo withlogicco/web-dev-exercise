@@ -71,16 +71,10 @@ orange
 
 Please follow the steps below, in order to submit the exercise
 
-* [Clone the repository locally](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-* [Create a new repository at Github](https://docs.github.com/en/github/getting-started-with-github/create-a-repo) (either private, or public)
-* [If you created a private repository, add @akalipetis and @parisk as collaborators](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
-* [Change the local repository `origin` remote URL to your own repository](https://docs.github.com/en/github/using-git/changing-a-remotes-url)
-* [Create a new branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
-* Implement the exercise in your new branch
-* [Create a Pull Request with your changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) and send it over to us
-
-## FAQ
-
-### What programming languages can I use?
-
-You can use the programming language of your choice, although Python and JavaScript are the languages we work with
+1. [Clone the repository locally](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+2. [Create a new repository at Github](https://docs.github.com/en/github/getting-started-with-github/create-a-repo) (either private, or public)
+3. [If you created a private repository, add @akalipetis and @parisk as collaborators](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
+4. [Change the local repository `origin` remote URL to your own repository](https://docs.github.com/en/github/using-git/changing-a-remotes-url)
+5. [Create a new branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+6. Implement the exercise in your new branch
+7. [Create a Pull Request with your changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) in your own repository (**NOT** in this repository) and send it over to us
