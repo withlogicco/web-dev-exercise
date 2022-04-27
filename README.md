@@ -5,7 +5,7 @@ This is the exercise for the Web Developer position at LOGIC. The objective of t
 ## How to submit
 
 1. Create a new **private** repository using this template[^1].
-2. Add the following GitHub users as collaborators: @akalipetis, @parisk.
+2. Add the following GitHub users as collaborators: @akalipetis, @parisk, @EvelinaIo.
 3. Create a new branch for your implementation[^2].
 4. Implement the exercise in your new branch.
 5. Create a Pull Request with your implementation[^3] and add @parisk as a reviewer[^4].
