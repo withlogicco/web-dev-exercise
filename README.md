@@ -1,6 +1,6 @@
 # Web Developer Exercise
 
-This is the exercise for the Web Developer position at LOGIC. The objective of this exercise is to create a web application.
+This is the exercise for the Web Developer position at LOGIC. The objective of this exercise is to create a web application in the programming language of your choice.
 
 ## How to submit
 
